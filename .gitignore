@@ -1,0 +1,29 @@
+
+venv/
+env/
+.venv/
+
+
+__pycache__/
+*.py[cod]gi
+*.pyd
+
+
+.mypy_cache/
+.pytest_cache/
+.vscode/ # Caché de VS Code
+.idea/   # Caché de PyCharm
+
+### Django y Base de Datos ###
+# Base de datos local
+*.sqlite3 
+*.db-journal
+
+# Logs
+*.log
+
+
+
+
+Thumbs.db
+ehthumbs.db
