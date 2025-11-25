@@ -1,5 +1,5 @@
 # Proyecto: Django Store
-# Autor: Ana Claudia Hernández Parra
+# Autor: Jorge Yovani Cuecuecha Paredes
 
 from pathlib import Path
 
